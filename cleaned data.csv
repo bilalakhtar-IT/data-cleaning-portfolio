@@ -1,0 +1,28 @@
+Customer ID,First Name,Last Name,Email,Phone Number,Signup Date,Department,Status
+101,John,Smith,john.smith@gmail.com,(416) 555-0192,2023-01-15,Sales,Active
+102,Mary,Johnson,mary.johnson@yahoo.com,(416) 555-0133,2023-01-22,Marketing,Active
+103,Robert,Brown,robert.brown@hotmail.com,(416) 555-0144,2023-02-10,IT,Active
+104,Sarah,Davis,sarah.davis@gmail.com,(416) 555-0177,2023-03-05,HR,Active
+105,James,Wilson,,(416) 555-0188,2023-03-20,Sales,Active
+107,Linda,Martinez,linda.martinez@gmail.com,(416) 555-0199,2023-04-02,Accounting,Inactive
+108,Michael,Garcia,michael.garcia@gmail.com,(416) 555-0211,2023-04-15,IT,Active
+109,Patricia,Rodriguez,patricia.rodriguez@gmail.com,,2023-05-01,Sales,Active
+110,David,Lee,david.lee@gmail.com,(416) 555-0222,2023-05-10,Marketing,Active
+111,Jennifer,Walker,jennifer.walker@gmail.com,(416) 555-0233,2023-05-18,HR,Active
+113,Susan,Hall,susan.hall@gmail.com,(416) 555-0244,2023-06-02,Sales,Inactive
+114,Christopher,Allen,christopher.allen@yahoo.com,(416) 555-0255,2023-06-20,Marketing,Active
+115,Lisa,Young,lisa.young@gmail.com,(416) 555-0266,,IT,Active
+116,Daniel,King,daniel.king@gmail.com,(416) 555-0277,2023-07-01,Accounting,Active
+117,Nancy,Wright,nancy.wright@gmail.com,(416) 555-0288,2023-07-15,Sales,Active
+118,Paul,Scott,paul.scott@hotmail.com,(416) 555-0299,2023-08-01,Marketing,Active
+119,Karen,Green,karen.green@gmail.com,,2023-08-12,HR,Inactive
+120,Mark,Adams,mark.adams@gmail.com,(416) 555-0300,2023-08-25,IT,Active
+121,Betty,Baker,betty.baker@gmail.com,(416) 555-0311,2023-09-03,Sales,Active
+122,Steven,Nelson,steven.nelson@gmail.com,(416) 555-0322,2023-09-18,Accounting,Active
+123,Donna,Carter,donna.carter@gmail.com,(416) 555-0333,2023-10-02,Marketing,Active
+124,Edward,Mitchell,edward.mitchell@gmail.com,(416) 555-0344,2023-10-14,IT,Active
+126,Carol,Perez,carol.perez@gmail.com,(416) 555-0355,2023-11-01,HR,Inactive
+127,Kevin,Roberts,kevin.roberts@hotmail.com,(416) 555-0366,2023-11-15,Sales,Active
+128,Michelle,Turner,michelle.turner@gmail.com,(416) 555-0377,2023-12-01,Marketing,Active
+129,Brian,Phillips,brian.phillips@gmail.com,,2023-12-10,IT,Active
+130,Amanda,Campbell,amanda.campbell@gmail.com,(416) 555-0388,2023-12-20,Accounting,Active
